@@ -8,7 +8,11 @@
 
 💻 **Specialized in**
 
-Java • Spring Boot • Microservices • REST APIs • Kafka • Kafka Streams • Event-Driven Architecture • Docker • Kubernetes • OpenShift • AWS
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-green?style=for-the-badge&logo=springboot)
+![Kafka](https://img.shields.io/badge/Kafka-black?style=for-the-badge&logo=apachekafka)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes)
 
 🌱 **Currently Learning**
 
