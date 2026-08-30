@@ -14,8 +14,6 @@
 
 ## 📫 Connect With Me
 
-## 📫 Connect With Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kumarraja%20Kotakonda-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kumarraja-kotakonda/) [![GitHub](https://img.shields.io/badge/GitHub-javapulse-black?style=for-the-badge&logo=github)](https://github.com/javapulse) [![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/javapulse/javapulse/blob/main/Kumarraja_Kotakond_resume.pdf) [![Email](https://img.shields.io/badge/Email-Contact-orange?style=for-the-badge&logo=gmail)](mailto:kumarraja.kotakonda@gmail.com)
 
 ---
