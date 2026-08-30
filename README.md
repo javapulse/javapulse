@@ -16,7 +16,7 @@
 [🌊 Kafka Streams](https://kafka.apache.org/documentation/streams/) •
 [⚡ Event Mesh](https://www.ibm.com/products/event-mesh) •
 [🐳 Docker](https://www.docker.com/) •
-[☸️ Kubernetes](https://kubernetes.io/) •
+[☸️ Kubernetes](https://kubernetes.io/)  •
 [🔧 OpenShift](https://www.redhat.com/en/technologies/cloud-computing/openshift) •
 [☁️ AWS](https://aws.amazon.com/)
 
