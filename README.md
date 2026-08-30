@@ -6,11 +6,11 @@
 
 🚀 Java Backend Developer with **12+ years of experience** building scalable and reliable enterprise applications.
 
-💻 **Specialized in:**
+💻 **Specialized in**
 
 Java • Spring Boot • Microservices • REST APIs • Kafka • Kafka Streams • Event-Driven Architecture • Docker • Kubernetes • OpenShift • AWS
 
-🌱 **Currently learning:**
+🌱 **Currently Learning**
 
 Generative AI • Agentic AI • LangChain • LangGraph
 
@@ -18,19 +18,24 @@ Generative AI • Agentic AI • LangChain • LangGraph
 
 ## 🛠️ Technical Skills
 
-**Languages**  
+**Languages**
+
 Java • SQL
 
-**Backend**  
+**Backend**
+
 Spring Boot • Spring Framework • REST APIs • Microservices
 
-**Messaging & Event Streaming**  
+**Messaging & Event Streaming**
+
 Apache Kafka • Kafka Streams • Event Mesh
 
-**Cloud & DevOps**  
+**Cloud & DevOps**
+
 Docker • Kubernetes • OpenShift • AWS • CI/CD
 
-**Development Tools**  
+**Development Tools**
+
 Git • Maven • Postman • Swagger
 
 ---
@@ -41,12 +46,14 @@ Git • Maven • Postman • Swagger
 
 **Technology:** Java • Spring Boot • Microservices • Finet APIs • Kafka • Kafka Streams • Event Mesh • Docker • Kubernetes
 
-Developed a KYC application with two key services:
+Developed a KYC application with two key services.
 
-**Core Banking Service**  
+**Core Banking Service**
+
 Integrated with the legacy core banking system through **Finet APIs** for customer and banking-related operations.
 
-**GT Service**  
+**GT Service**
+
 Implemented event-driven communication using **IBM Event Mesh and Kafka/Kafka Streams** for reliable and scalable event processing between services.
 
 ---
@@ -55,7 +62,7 @@ Implemented event-driven communication using **IBM Event Mesh and Kafka/Kafka St
 
 **Technology:** Java • Spring Boot • REST APIs • Kubernetes
 
-Developed and maintained APIs supporting retail banking products:
+Developed and maintained APIs supporting retail banking products.
 
 **Home Loans • Personal Loans • Credit Cards**
 
@@ -73,7 +80,7 @@ Java 8+ • Collections • Stream API • Multithreading • Concurrency • Sp
 
 Currently exploring how **Generative AI and Agentic AI** can be integrated with Java and Spring Boot applications.
 
-**Learning and experimenting with:**
+**Learning and experimenting with**
 
 LLMs • LangChain • LangGraph • AI Agents • Agentic Workflows • Java + AI Integration
 
@@ -81,24 +88,36 @@ LLMs • LangChain • LangGraph • AI Agents • Agentic Workflows • Java + 
 
 ## 📌 GitHub Repositories
 
-🔹 Java Projects & Collections  
-🔹 Spring Boot Microservices  
-🔹 Employee CRUD with MongoDB  
-🔹 Eureka Server  
-🔹 E-Commerce Order Service  
+🔹 Java Projects & Collections
+
+🔹 Spring Boot Microservices
+
+🔹 Employee CRUD with MongoDB
+
+🔹 Eureka Server
+
+🔹 E-Commerce Order Service
+
 🔹 Java Stream API Examples
 
 ---
 
 ## 📫 Connect With Me
 
-💼 **LinkedIn:**  
+💼 **LinkedIn**
+
 [linkedin.com/in/kumarraja-kotakonda](https://www.linkedin.com/in/kumarraja-kotakonda/)
 
-💻 **GitHub:**  
+💻 **GitHub**
+
 [github.com/javapulse](https://github.com/javapulse)
 
-📧 **Email:**  
+📄 **Resume**
+
+[View My Resume](YOUR_RESUME_LINK)
+
+📧 **Email**
+
 kumarraja.kotakonda11223@gmail.com
 
 ---
