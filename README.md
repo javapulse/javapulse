@@ -11,11 +11,10 @@
 🤖 Generative AI • 🧠 Agentic AI • 🔗 LangChain • 🕸️ LangGraph
 
 ---
-
 ## Connect With Me
 
 <a href="https://www.linkedin.com/in/kumarraja-kotakonda/">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45" height="45" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 ---
 
