@@ -8,11 +8,17 @@
 
 💻 **Specialized in**
 
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-green?style=for-the-badge&logo=springboot)
-![Kafka](https://img.shields.io/badge/Kafka-black?style=for-the-badge&logo=apachekafka)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes)
+[☕ Java](https://www.java.com/) •
+[🌱 Spring Boot](https://spring.io/projects/spring-boot) •
+[🧩 Microservices](https://spring.io/microservices) •
+[🔗 REST APIs](https://restfulapi.net/) •
+[📡 Kafka](https://kafka.apache.org/) •
+[🌊 Kafka Streams](https://kafka.apache.org/documentation/streams/) •
+[⚡ Event Mesh](https://www.ibm.com/products/event-mesh) •
+[🐳 Docker](https://www.docker.com/) •
+[☸️ Kubernetes](https://kubernetes.io/) •
+[🔧 OpenShift](https://www.redhat.com/en/technologies/cloud-computing/openshift) •
+[☁️ AWS](https://aws.amazon.com/)
 
 🌱 **Currently Learning**
 
