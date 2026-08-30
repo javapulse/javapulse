@@ -114,7 +114,7 @@ LLMs • LangChain • LangGraph • AI Agents • Agentic Workflows • Java + 
 
 📄 **Resume**
 
-[View My Resume](YOUR_RESUME_LINK)
+[View My Resume]([YOUR_RESUME_LINK](https://github.com/javapulse/javapulse/blob/main/Kumarraja_Kotakond_resume.pdf))
 
 📧 **Email**
 
