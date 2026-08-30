@@ -6,28 +6,19 @@
 
 🚀 Java Backend Developer with **12+ years of experience** building scalable and reliable enterprise applications.
 
-### 💻 Specialized in
+💻 **Specialized in**
 
-<table align="center">
-<tr>
-<td align="center">☕ <a href="https://www.java.com/">Java</a></td>
-<td align="center">🌱 <a href="https://spring.io/projects/spring-boot">Spring Boot</a></td>
-<td align="center">🧩 <a href="https://spring.io/microservices">Microservices</a></td>
-<td align="center">🔗 <a href="https://restfulapi.net/">REST APIs</a></td>
-</tr>
-<tr>
-<td align="center">📡 <a href="https://kafka.apache.org/">Kafka</a></td>
-<td align="center">🌊 <a href="https://kafka.apache.org/documentation/streams/">Kafka Streams</a></td>
-<td align="center">⚡ <a href="https://www.ibm.com/products/event-mesh">Event Mesh</a></td>
-<td align="center">🐳 <a href="https://www.docker.com/">Docker</a></td>
-</tr>
-<tr>
-<td align="center">☸️ <a href="https://kubernetes.io/">Kubernetes</a></td>
-<td align="center">🔧 <a href="https://www.redhat.com/en/technologies/cloud-computing/openshift">OpenShift</a></td>
-<td align="center">☁️ <a href="https://aws.amazon.com/">AWS</a></td>
-<td align="center">💻 Cloud & DevOps</td>
-</tr>
-</table>
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-green?style=for-the-badge&logo=springboot)
+![Microservices](https://img.shields.io/badge/Microservices-blue?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-lightblue?style=for-the-badge)
+![Kafka](https://img.shields.io/badge/Kafka-black?style=for-the-badge&logo=apachekafka)
+![Kafka Streams](https://img.shields.io/badge/Kafka%20Streams-purple?style=for-the-badge&logo=apachekafka)
+![Event Mesh](https://img.shields.io/badge/Event%20Mesh-orange?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes)
+![OpenShift](https://img.shields.io/badge/OpenShift-red?style=for-the-badge&logo=redhatopenshift)
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
 
 🌱 **Currently Learning**
 
