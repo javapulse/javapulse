@@ -50,14 +50,4 @@ REST APIs using Spring Boot and Microservices architecture.
 
 Exploring AI agents with Java and Spring Boot.
 
----
-
-## 📊 GitHub Stats
-
-![Kumarraja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=javapulse&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=javapulse&layout=compact&hide_border=true)
-
-
-
 </div>
