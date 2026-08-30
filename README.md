@@ -6,19 +6,28 @@
 
 🚀 Java Backend Developer with **12+ years of experience** building scalable and reliable enterprise applications.
 
-💻 **Specialized in**
+### 💻 Specialized in
 
-[☕ Java](https://www.java.com/) •
-[🌱 Spring Boot](https://spring.io/projects/spring-boot) •
-[🧩 Microservices](https://spring.io/microservices) •
-[🔗 REST APIs](https://restfulapi.net/) •
-[📡 Kafka](https://kafka.apache.org/) •
-[🌊 Kafka Streams](https://kafka.apache.org/documentation/streams/) •
-[⚡ Event Mesh](https://www.ibm.com/products/event-mesh) •
-[🐳 Docker](https://www.docker.com/) •
-[☸️ Kubernetes](https://kubernetes.io/)  •
-[🔧 OpenShift](https://www.redhat.com/en/technologies/cloud-computing/openshift) •
-[☁️ AWS](https://aws.amazon.com/)
+<table align="center">
+<tr>
+<td align="center">☕ <a href="https://www.java.com/">Java</a></td>
+<td align="center">🌱 <a href="https://spring.io/projects/spring-boot">Spring Boot</a></td>
+<td align="center">🧩 <a href="https://spring.io/microservices">Microservices</a></td>
+<td align="center">🔗 <a href="https://restfulapi.net/">REST APIs</a></td>
+</tr>
+<tr>
+<td align="center">📡 <a href="https://kafka.apache.org/">Kafka</a></td>
+<td align="center">🌊 <a href="https://kafka.apache.org/documentation/streams/">Kafka Streams</a></td>
+<td align="center">⚡ <a href="https://www.ibm.com/products/event-mesh">Event Mesh</a></td>
+<td align="center">🐳 <a href="https://www.docker.com/">Docker</a></td>
+</tr>
+<tr>
+<td align="center">☸️ <a href="https://kubernetes.io/">Kubernetes</a></td>
+<td align="center">🔧 <a href="https://www.redhat.com/en/technologies/cloud-computing/openshift">OpenShift</a></td>
+<td align="center">☁️ <a href="https://aws.amazon.com/">AWS</a></td>
+<td align="center">💻 Cloud & DevOps</td>
+</tr>
+</table>
 
 🌱 **Currently Learning**
 
