@@ -4,9 +4,35 @@
 
 ### Java Microservices Developer | Spring Boot | Kafka | Kubernetes
 
-🚀 Java Backend Developer with **12+ years of experience** building scalable and reliable enterprise applications.
+🚀 Software Engineer with **12+ years of experience** building scalable and reliable enterprise applications.
 
-💻 **Specialized in**
+🌱 **Currently Learning**
+
+🤖 Generative AI • 🧠 Agentic AI • 🔗 LangChain • 🕸️ LangGraph
+
+---
+
+## 📫 Connect With Me
+
+💼 **LinkedIn**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kumarraja%20Kotakonda-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kumarraja-kotakonda/)
+
+💻 **GitHub**
+
+[![GitHub](https://img.shields.io/badge/GitHub-javapulse-black?style=for-the-badge&logo=github)](https://github.com/javapulse)
+
+📄 **Resume**
+
+[![Resume](https://img.shields.io/badge/View%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/javapulse/javapulse/blob/main/Kumarraja_Kotakond_resume.pdf)
+
+📧 **Email**
+
+[kumarraja.kotakonda@gmail.com](mailto:kumarraja.kotakonda@gmail.com)
+
+---
+
+## 💻 Specialized in
 
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-green?style=for-the-badge&logo=springboot)
@@ -20,41 +46,22 @@
 ![OpenShift](https://img.shields.io/badge/OpenShift-red?style=for-the-badge&logo=redhatopenshift)
 ![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
 
-🌱 **Currently Learning**
-
-Generative AI • Agentic AI • LangChain • LangGraph
-
----
-
-## 🛠️ Technical Skills
-
-**Languages**
-
-Java • SQL
-
-**Backend**
-
-Spring Boot • Spring Framework • REST APIs • Microservices
-
-**Messaging & Event Streaming**
-
-Apache Kafka • Kafka Streams • Event Mesh
-
-**Cloud & DevOps**
-
-Docker • Kubernetes • OpenShift • AWS • CI/CD
-
-**Development Tools**
-
-Git • Maven • Postman • Swagger
-
 ---
 
 ## 🚀 Featured Projects
 
 ### 🏆 Gold Tier Project – KYC Application
 
-**Technology:** Java • Spring Boot • Microservices • Finet APIs • Kafka • Kafka Streams • Event Mesh • Docker • Kubernetes
+**Technology**
+
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-green?style=for-the-badge&logo=springboot)
+![Microservices](https://img.shields.io/badge/Microservices-blue?style=for-the-badge)
+![Kafka](https://img.shields.io/badge/Kafka-black?style=for-the-badge&logo=apachekafka)
+![Kafka Streams](https://img.shields.io/badge/Kafka%20Streams-purple?style=for-the-badge&logo=apachekafka)
+![Event Mesh](https://img.shields.io/badge/Event%20Mesh-orange?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes)
 
 Developed a KYC application with two key services.
 
@@ -66,23 +73,20 @@ Integrated with the legacy core banking system through **Finet APIs** for custom
 
 Implemented event-driven communication using **IBM Event Mesh and Kafka/Kafka Streams** for reliable and scalable event processing between services.
 
----
-
 ### 🏦 Blaze FET – Retail Banking
 
-**Technology:** Java • Spring Boot • REST APIs • Kubernetes
+**Technology**
+
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-green?style=for-the-badge&logo=springboot)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-lightblue?style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes)
 
 Developed and maintained APIs supporting retail banking products.
 
-**Home Loans • Personal Loans • Credit Cards**
+🏠 **Home Loans** • 💰 **Personal Loans** • 💳 **Credit Cards**
 
 Implemented business workflows, validations, and service integrations for retail banking applications.
-
----
-
-## 📚 Java & Microservices
-
-Java 8+ • Collections • Stream API • Multithreading • Concurrency • Spring Boot • Microservices Architecture • REST API Design • Kafka • Event-Driven Architecture • Docker • Kubernetes
 
 ---
 
@@ -92,7 +96,21 @@ Currently exploring how **Generative AI and Agentic AI** can be integrated with 
 
 **Learning and experimenting with**
 
-LLMs • LangChain • LangGraph • AI Agents • Agentic Workflows • Java + AI Integration
+🤖 LLMs • 🔗 LangChain • 🕸️ LangGraph • 🧠 AI Agents
+
+⚡ Agentic Workflows • ☕ Java + AI Integration
+
+---
+
+## 📚 Java & Microservices
+
+☕ Java 8+ • Collections • Stream API • Multithreading • Concurrency
+
+🌱 Spring Boot • Microservices Architecture • REST API Design
+
+📡 Kafka • Kafka Streams • Event-Driven Architecture
+
+🐳 Docker • ☸️ Kubernetes • 🔧 OpenShift • ☁️ AWS
 
 ---
 
@@ -109,26 +127,6 @@ LLMs • LangChain • LangGraph • AI Agents • Agentic Workflows • Java + 
 🔹 E-Commerce Order Service
 
 🔹 Java Stream API Examples
-
----
-
-## 📫 Connect With Me
-
-💼 **LinkedIn**
-
-[linkedin.com/in/kumarraja-kotakonda](https://www.linkedin.com/in/kumarraja-kotakonda/)
-
-💻 **GitHub**
-
-[github.com/javapulse](https://github.com/javapulse)
-
-📄 **Resume**
-
-[📄 View My Resume](https://github.com/javapulse/javapulse/blob/main/Kumarraja_Kotakond_resume.pdf)
-
-📧 **Email**
-
-kumarraja.kotakonda11223@gmail.com
 
 ---
 
