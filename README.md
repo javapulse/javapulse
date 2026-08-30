@@ -14,7 +14,7 @@
 ## Connect With Me
 
 <a href="https://www.linkedin.com/in/kumarraja-kotakonda/">
-  <img src="https://img.shields.io/badge/-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@16.29.0/icons/linkedin.svg" width="45" height="45" alt="LinkedIn">
 </a>
 ---
 
