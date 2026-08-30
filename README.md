@@ -54,8 +54,10 @@ Exploring AI agents with Java and Spring Boot.
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=javapulse&show_icons=true" />
+![Kumarraja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=javapulse&show_icons=true&hide_border=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javapulse&layout=compact" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=javapulse&layout=compact&hide_border=true)
+
+
 
 </div>
