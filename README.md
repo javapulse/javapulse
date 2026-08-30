@@ -2,52 +2,107 @@
 
 # Hi 👋, I'm Kumarraja 😎
 
-### Java Microservices Developer
+### Java Microservices Developer | Spring Boot | Kafka | Kubernetes
 
-🚀 Software Engineer with 12+ years of experience
+🚀 Java Backend Developer with **12+ years of experience** building scalable and reliable enterprise applications.
 
-🌱 **Currently Learning**
+💻 **Specialized in:**
+
+Java • Spring Boot • Microservices • REST APIs • Kafka • Kafka Streams • Event-Driven Architecture • Docker • Kubernetes • OpenShift • AWS
+
+🌱 **Currently learning:**
 
 Generative AI • Agentic AI • LangChain • LangGraph
 
-💻 **Technologies**
-
-Java • Spring Boot • Microservices • REST APIs • Docker • Kubernetes • Kafka
-
-📝 I regularly write about software development.
-
-💬 **Ask me about**
-
-Java • Spring Boot • Microservices • REST APIs • Kubernetes
-
-📫 **Contact**
-
-kumarraja.kotakonda11223@gmail.com
-
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Technical Skills
 
-<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk" />
-<img src="https://img.shields.io/badge/Spring%20Boot-green?style=for-the-badge&logo=springboot" />
-<img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker" />
-<img src="https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes" />
-<img src="https://img.shields.io/badge/Kafka-black?style=for-the-badge&logo=apachekafka" />
+**Languages**  
+Java • SQL
+
+**Backend**  
+Spring Boot • Spring Framework • REST APIs • Microservices
+
+**Messaging & Event Streaming**  
+Apache Kafka • Kafka Streams • Event Mesh
+
+**Cloud & DevOps**  
+Docker • Kubernetes • OpenShift • AWS • CI/CD
+
+**Development Tools**  
+Git • Maven • Postman • Swagger
 
 ---
 
 ## 🚀 Featured Projects
 
-### Payment Microservices
+### 🏆 Gold Tier Project – KYC Application
 
-Java + Spring Boot + Kafka based payment processing system.
+**Technology:** Java • Spring Boot • Microservices • Finet APIs • Kafka • Kafka Streams • Event Mesh • Docker • Kubernetes
 
-### Loan Management API
+Developed a KYC application with two key services:
 
-REST APIs using Spring Boot and Microservices architecture.
+**Core Banking Service**  
+Integrated with the legacy core banking system through **Finet APIs** for customer and banking-related operations.
 
-### Agentic AI
+**GT Service**  
+Implemented event-driven communication using **IBM Event Mesh and Kafka/Kafka Streams** for reliable and scalable event processing between services.
 
-Exploring AI agents with Java and Spring Boot.
+---
+
+### 🏦 Blaze FET – Retail Banking
+
+**Technology:** Java • Spring Boot • REST APIs • Kubernetes
+
+Developed and maintained APIs supporting retail banking products:
+
+**Home Loans • Personal Loans • Credit Cards**
+
+Implemented business workflows, validations, and service integrations for retail banking applications.
+
+---
+
+## 📚 Java & Microservices
+
+Java 8+ • Collections • Stream API • Multithreading • Concurrency • Spring Boot • Microservices Architecture • REST API Design • Kafka • Event-Driven Architecture • Docker • Kubernetes
+
+---
+
+## 🤖 Generative AI & Agentic AI
+
+Currently exploring how **Generative AI and Agentic AI** can be integrated with Java and Spring Boot applications.
+
+**Learning and experimenting with:**
+
+LLMs • LangChain • LangGraph • AI Agents • Agentic Workflows • Java + AI Integration
+
+---
+
+## 📌 GitHub Repositories
+
+🔹 Java Projects & Collections  
+🔹 Spring Boot Microservices  
+🔹 Employee CRUD with MongoDB  
+🔹 Eureka Server  
+🔹 E-Commerce Order Service  
+🔹 Java Stream API Examples
+
+---
+
+## 📫 Connect With Me
+
+💼 **LinkedIn:**  
+[linkedin.com/in/kumarraja-kotakonda](https://www.linkedin.com/in/kumarraja-kotakonda/)
+
+💻 **GitHub:**  
+[github.com/javapulse](https://github.com/javapulse)
+
+📧 **Email:**  
+kumarraja.kotakonda11223@gmail.com
+
+---
+
+⭐ **Feel free to explore my repositories and connect with me!**
 
 </div>
